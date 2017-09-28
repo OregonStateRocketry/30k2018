@@ -1,1 +1,1 @@
-exclude: ["CNAME", "MIT-LICENSE", "README.md"]
+exclude: ['./README.md']
