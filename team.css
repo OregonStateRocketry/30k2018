@@ -10,7 +10,7 @@ body {
 
 /* Center website */
 .main {
-    max-width: 1000px;
+    max-width: 1200px;
     margin: auto;
 }
 
@@ -33,6 +33,14 @@ h1 {
 .column {
     float: left;
     width: 33.33%;
+    margin-bottom: 16px;
+    padding: 0 8px;
+}
+
+/* Create four equal columns that floats next to each other */
+.columnFour {
+    float: left;
+    width: 25%;
     margin-bottom: 16px;
     padding: 0 8px;
 }
@@ -74,4 +82,3 @@ h4 {
     /*word-break: break-all;
     */text-align: center;
 }
-
